@@ -2,7 +2,11 @@
 
 Hi there! 👋
 
-This project is part of my assignment for the **Founder's Office Role @Julep AI**. As a fresher, I'm grateful for the chance to dive into something exciting and real-world like this. Though I’m new to the platform, I absolutely enjoyed exploring and building this personalized foodie tour workflow using Julep’s powerful capabilities! 🚀
+Hi there! 👋
+
+This project was created as part of my assignment for the **Founder's Office Role @Julep AI**. As someone just starting out, I was excited to explore a real-world use case — and Julep made it incredibly smooth.
+
+Using Julep's no-code platform, I built an agent that plans a full foodie tour across selected cities, taking into account the **local weather**, **famous dishes**, and **popular restaurants** — all without writing backend code or calling external APIs. 🚀
 
 ---
 
@@ -61,9 +65,9 @@ Here's a glimpse of the working model from Julep:
 
 ---
 
-## 🙏 Final Note
+## 🙌 Notes
 
-As a fresher, this was my first hands-on with workflow automation using a no-code AI tool — and I absolutely loved how intuitive and powerful Julep is! Thank you for this creative challenge and opportunity. ❤️
+As a fresher, this was my first time using Julep, and I really enjoyed building something functional from scratch without writing backend code or calling external APIs. It was intuitive and exciting to see results this quickly!
 
 Looking forward to contributing and learning more! 😊
 
