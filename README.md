@@ -48,6 +48,9 @@ Here’s how it looks when the agent responds inside Julep:
 ### 📍 Bangalore Tour Details  
 ![Bangalore Tour Screenshot](./{29822D6B-8AC3-48ED-A526-F6A884E220A6}.png)
 
+### 📍 Bangalore Hesarghatta Tour Details  
+![Hearghatta Tour Screenshot](./{13DD3050-5626-4E05-B2B4-23A314763C0B}.png)
+
 ### 📍 Hyderabad Tour Details  
 ![Hyderabad Tour Screenshot](./image.png)
 )
