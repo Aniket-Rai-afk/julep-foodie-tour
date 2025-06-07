@@ -48,6 +48,10 @@ Here’s how it looks when the agent responds inside Julep:
 ### 📍 Bangalore Tour Details  
 ![Bangalore Tour Screenshot](./{29822D6B-8AC3-48ED-A526-F6A884E220A6}.png)
 
+### 📍 Hyderabad Tour Details  
+![Bangalore Tour Screenshot](./![image](https://github.com/user-attachments/assets/910fd454-5501-4a5e-a4ea-54c46b68a9b3)
+)
+
 
 ---
 
