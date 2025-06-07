@@ -2,51 +2,45 @@
 
 Hi there! 👋
 
-Hi there! 👋
+This project is part of my assignment for the **Founder's Office Role @Julep AI**.
 
-This project was created as part of my assignment for the **Founder's Office Role @Julep AI**. As someone just starting out, I was excited to explore a real-world use case — and Julep made it incredibly smooth.
-
-Using Julep's no-code platform, I built an agent that plans a full foodie tour across selected cities, taking into account the **local weather**, **famous dishes**, and **popular restaurants** — all without writing backend code or calling external APIs. 🚀
+As a fresher, I was really excited to try something practical and fun. Using Julep’s no-code platform, I created a small app that helps plan a foodie tour for different cities — based on the day’s weather and famous local dishes. The best part? I didn’t need to write any backend code or connect APIs. It all worked smoothly using Julep’s interface!
 
 ---
 
-## 🧠 Project Overview
+## 🧠 What I Tried to Build
 
-The goal was to build an AI agent that:
-- Takes a **list of cities**
-- Fetches the **current weather**
-- Suggests **indoor or outdoor dining**
-- Picks **3 iconic local dishes per city**
-- Recommends **top-rated restaurants**
-- Crafts a delightful **one-day foodie tour** including:
-  - 🥞 Breakfast
-  - 🍛 Lunch
-  - 🍽️ Dinner
+The goal was to create an agent that:
+- Takes names of a few cities
+- Checks the weather in each city
+- Suggests indoor or outdoor meals depending on weather
+- Picks 3 famous local dishes
+- Recommends well-known restaurants
+- Gives a simple foodie plan for the day (Breakfast, Lunch, Dinner)
 
 ---
 
-## ✨ Features
+## ✨ What Works
 
-✅ Dynamic city-based food planning  
-✅ Weather-integrated dining suggestions  
-✅ Region-specific dish recommendations  
-✅ Narrative-style meal recommendations  
-✅ Friendly, helpful AI-powered agent
-
----
-
-## 🏙️ Cities Explored
-
-This version explores a gourmet day in:
-- **Delhi** 🌞 (Outdoor dining)
-- **Bangalore** 🌤️ (Outdoor dining)
-- **Mumbai** 🌡️ (Indoor dining)
+- It adjusts meal plans based on whether it’s sunny or humid
+- It gives different dishes and places for each city
+- It writes out a short, full-day food tour — in a friendly, story-like way
+- All of this happens just by chatting with the AI agent
 
 ---
 
-## 🧾 Sample Output Screenshot
+## 🏙️ Cities I Used for Demo
 
-Here's a glimpse of the working model from Julep:
+I tested this with:
+- **Delhi** 🌞
+- **Bangalore** 🌤️
+- **Mumbai** 🌡️
+
+---
+
+## 📸 Screenshots
+
+Here’s how it looks when the agent responds inside Julep:
 
 ### 📍 Food Tour for Delhi, Bangalore, and Mumbai  
 ![Delhi + Chat Screenshot](./{8FCE60DE-5880-4CA8-915E-1CBE7C16D16E}.png)
@@ -54,25 +48,23 @@ Here's a glimpse of the working model from Julep:
 ### 📍 Bangalore Tour Details  
 ![Bangalore Tour Screenshot](./{29822D6B-8AC3-48ED-A526-F6A884E220A6}.png)
 
+
 ---
 
-## 🔧 Tech Used
+## 🔧 What I Used
 
 - **Julep AI Platform**
 - **GPT-4o Model**
-- **Julep’s No-Code Agent Builder**
-- No external API keys were used 🙌
+- No backend code or external APIs needed
 
 ---
 
-## 🙌 Notes
+## 🙌 Final Thoughts
 
-As a fresher, this was my first time using Julep, and I really enjoyed building something functional from scratch without writing backend code or calling external APIs. It was intuitive and exciting to see results this quickly!
+This was my first time trying Julep, and honestly, it was super fun to see results this quickly.
 
-Looking forward to contributing and learning more! 😊
+As a beginner, I could build a working idea without writing much code. It helped me understand how powerful AI can be when paired with a no-code setup.
 
-Cheers,  
-**Aniket Rai**
+Thanks for checking it out! 😊
 
----
-
+**— Aniket Rai**
