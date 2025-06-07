@@ -45,7 +45,7 @@ This version explores a gourmet day in:
 Here's a glimpse of the working model from Julep:
 
 ### 📍 Food Tour for Delhi, Bangalore, and Mumbai  
-![Delhi + Chat Screenshot](./dba795cf-b46c-47f3-af7e-9ff7d2aa1dba.png)
+![Delhi + Chat Screenshot](./{8FCE60DE-5880-4CA8-915E-1CBE7C16D16E}.png)
 
 ### 📍 Bangalore Tour Details  
 ![Bangalore Tour Screenshot](./{29822D6B-8AC3-48ED-A526-F6A884E220A6}.png)
